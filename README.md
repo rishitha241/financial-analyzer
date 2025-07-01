@@ -19,6 +19,4 @@ python analyzer.py
 ## 📌 Project Links
 - GitHub: https://github.com/rishitha241
 - LinkedIn: https://www.linkedin.com/in/rishitha-g-792b90333
-
----
-Built by Rishitha (B.Tech CSE) for internship preparation.
+  
